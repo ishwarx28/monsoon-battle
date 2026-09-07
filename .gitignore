@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+**/build/
+.build-tools/
+local.properties
+*.iml
+*.jks
+*.keystore
+*.hprof
+*.log
+captures/
+.DS_Store
+
+# Local run state and generated audio
+monsoon-battle/
